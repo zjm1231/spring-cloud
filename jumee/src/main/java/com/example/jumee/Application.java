@@ -12,7 +12,7 @@ public class Application
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello Glinp!" );
+        System.out.println( "Hello Spring Cloud!" );
         SpringApplication.run(Application.class, args);
     }
 }
